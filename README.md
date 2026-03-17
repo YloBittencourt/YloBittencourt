@@ -1,14 +1,15 @@
 # Olá, eu sou o Ylo! 👋
 
-### 🎓 Cientista da Computação & Líder em Formação @ UESC
-[cite_start]Atualmente cursando Ciência da Computação na Universidade Estadual de Santa Cruz[cite: 25]. [cite_start]Sou apaixonado por tecnologia e focado em unir o desenvolvimento técnico à gestão de pessoas e processos[cite: 30, 39].
+### 🎓 Cientista da Computação UESC
+Atualmente cursando Ciência da Computação na Universidade Estadual de Santa Cruz.
 
----
+### 🎓 Analista e Desenvolvedor de Sistemas UNOPAR
+Possuo superior técnico em Análise e Desenvolvimento de Sistemas realizado na Unopar.
 
 ### 💼 Experiência & Liderança
-- [cite_start]🚀 **Life Jr.**: Atualmente atuo como **Gerente de Gestão de Pessoas e Membro de Projetos**, focando em metodologias ágeis e soluções tecnológicas[cite: 30, 31, 33].
-- [cite_start]🌐 **NEJ Elementar**: Membro da **Vice-Presidência de Gente e Gestão (VPGG)**, contribuindo para o ecossistema empreendedor universitário[cite: 35, 36].
-- [cite_start]🔬 **Pesquisa e Extensão**: Colaborador no **Projeto Protege** (disponível aqui no meu GitHub) sob orientação docente[cite: 37, 38].
+- 🚀 **Life Jr.**: Atualmente atuo como **Gerente de Gestão de Pessoas e Membro de Projetos**, focando em metodologias ágeis e soluções tecnológicas.
+- 🌐 **NEJ Elementar**: Membro da **Vice-Presidência de Gente e Gestão (VPGG)**, contribuindo para o ecossistema empreendedor universitário.
+- 🔬 **Pesquisa e Extensão**: Colaborador no **Projeto Protege** (disponível aqui no meu GitHub) sob orientação docente.
 
 ---
 
@@ -33,7 +34,6 @@
 
 ### 📫 Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ylo-bittencourt)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ylo.bittencourt2003@gmail.com)
 
 ---
-[cite_start]*Foco atual: Especialização em Fullstack (Node.js/Angular) e Gestão de Pessoas no MEJ.* [cite: 30, 39, 43]
+*Foco atual: Especialização em Fullstack (Node.js/Angular) e Gestão de Pessoas no MEJ.*

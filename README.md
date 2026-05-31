@@ -9,7 +9,6 @@ Possuo superior técnico em Análise e Desenvolvimento de Sistemas realizado na 
 ### 💼 Experiência & Liderança
 - 🚀 **Life Jr.**: Atualmente atuo como **Gerente de Gestão de Pessoas e Membro de Projetos**, focando em metodologias ágeis e soluções tecnológicas.
 - 🌐 **NEJ Elementar**: Membro da **Vice-Presidência de Gente e Gestão (VPGG)**, contribuindo para o ecossistema empreendedor universitário.
-- 🔬 **Pesquisa e Extensão**: Colaborador no **Projeto Protege** (disponível aqui no meu GitHub) sob orientação docente.
 
 ---
 
